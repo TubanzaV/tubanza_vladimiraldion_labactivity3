@@ -1,0 +1,86 @@
+==============================
+ HARDWARE INVENTORY MENU
+==============================
+1. Register new item
+2. Restock item
+3. Dispense item
+4. View Inventory Report
+5. Exit
+
+Select an option (1-5): 1
+
+____Register New Item____
+Enter Item ID (e.g., RAM-01): CPU-1i
+Enter Item Name: Intel Core i5-12400f
+Enter Category: Processor
+Enter Initial Quantity: 15
+Enter Unit Price: 299
+[*] Registered new item: Intel Core i5-12400f
+
+==============================
+ HARDWARE INVENTORY MENU
+==============================
+1. Register new item
+2. Restock item
+3. Dispense item
+4. View Inventory Report
+5. Exit
+
+Select an option (1-5): 1
+
+____Register New Item____
+Enter Item ID (e.g., RAM-01): GPU-1r
+Enter Item Name: AMD RX5600
+Enter Category: Graphics
+Enter Initial Quantity: 5
+Enter Unit Price: 399
+[*] Registered new item: AMD RX5600
+
+==============================
+ HARDWARE INVENTORY MENU
+==============================
+1. Register new item
+2. Restock item
+3. Dispense item
+4. View Inventory Report
+5. Exit
+
+Select an option (1-5): 1
+
+____Register New Item____
+Enter Item ID (e.g., RAM-01): RAM-1h
+Enter Item Name: Sandisk HDD 1TB
+Enter Category: Storage     
+Enter Initial Quantity: 10
+Enter Unit Price: 399
+[*] Registered new item: Sandisk HDD 1TB
+
+==============================
+ HARDWARE INVENTORY MENU
+==============================
+1. Register new item
+2. Restock item
+3. Dispense item
+4. View Inventory Report
+5. Exit
+
+Select an option (1-5): 4
+
+____SYSTEM INVENTORY REPORT____
+[CPU-1i] Intel Core i5-12400f (Processor) | Qty: 15 | Unit Price: $299.00
+[GPU-1r] AMD RX5600 (Graphics) | Qty: 5 | Unit Price: $399.00
+[RAM-1h] Sandisk HDD 1TB (Storage) | Qty: 10 | Unit Price: $399.00
+_________________________________
+TOTAL SYSTEM VALUATION: $10470.00
+
+
+==============================
+ HARDWARE INVENTORY MENU
+==============================
+1. Register new item
+2. Restock item
+3. Dispense item
+4. View Inventory Report
+5. Exit
+
+Select an option (1-5):
